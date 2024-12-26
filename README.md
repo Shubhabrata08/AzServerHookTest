@@ -2,4 +2,4 @@
 
 Update 1.01
 
-Update 1.06
+Update 1.07
